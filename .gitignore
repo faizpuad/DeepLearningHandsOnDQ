@@ -1,0 +1,15 @@
+# files to be ignored an dnot uploaded to main repo
+
+# data source
+data/*
+
+# environment and hidden files
+*.env
+env
+env/*
+
+# python cehckpoints
+*.ipynb_checkpoints
+
+# vscode extension
+*.vscode
