@@ -13,3 +13,6 @@ env/*
 
 # vscode extension
 *.vscode
+
+# avoid upload pdf file
+*.pdf
